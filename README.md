@@ -1,2 +1,3 @@
 # GameEngineJ
-GameEngine Java на LWJGL
+  GameEngine Java на LWJGL
+  Используеться IntelliJ IDEA
