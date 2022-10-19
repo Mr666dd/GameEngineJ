@@ -1,4 +1,7 @@
 # GameEngineJ
+
+## Больше не актуально. 
+
   GameEngine Java на LWJGL
   
   Используеться IntelliJ IDEA
